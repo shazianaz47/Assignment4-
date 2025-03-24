@@ -6,3 +6,6 @@ There is 6 projects in this repository
 04 _how_old_are_they.
 05 _triangle_perimeter.
 06 _square_number.
+
+# Mini Project Python
+Task1 Madlib : https://github.com/shazianaz47/Mini-Projects-Python.git
